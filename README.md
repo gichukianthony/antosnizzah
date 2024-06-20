@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=antohsnizzah">
 - 👋 Hi, I’m @antosnizzah
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning back end development
