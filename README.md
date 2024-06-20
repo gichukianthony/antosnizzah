@@ -5,10 +5,16 @@
   </a>
 </h1>
 <br />
-- 👋 Hi, I’m @antosnizzah
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning back end development
-- 💞️ I’m looking to collaborate on any website development project
-- 📫 How to reach me antosnizzah@gmail.com
+p align="center">
+  Hi, I'm antony, software Developer/Coder 💻,  student 👨‍💻 &  gamer 🦸‍♂️ from kenya .
+  <br />
+  <br />
+  🎓 Currently a student.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  🧑‍💼 I’m currently learning drizzle-orm and hono.
+  <br />
+</p>
 
 
