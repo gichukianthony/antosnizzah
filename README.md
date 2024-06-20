@@ -5,7 +5,7 @@
   </a>
 </h1>
 <br />
-p align="center">
+<p align="center">
   Hi, I'm antony, software Developer/Coder 💻,  student 👨‍💻 &  gamer 🦸‍♂️ from kenya .
   <br />
   <br />
