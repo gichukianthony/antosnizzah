@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=antohsnizzah">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+antohsnizzah!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+i am+antohsnizzah!;+a passionate software developer&center=true&size=30">
   </a>
 </h1>
 - 👋 Hi, I’m @antosnizzah
