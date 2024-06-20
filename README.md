@@ -16,6 +16,10 @@
   🧑‍💼 I’m currently learning drizzle-orm and hono.
   <br />
 </p>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
