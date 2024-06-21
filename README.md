@@ -47,5 +47,5 @@
 
 ## 🔥My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antosnizzah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+## de vCard 
 <a href="https://app.daily.dev/anthony73"><img src="https://api.daily.dev/devcards/v2/Re6fokPHej7TlBRiWcOiL.png?r=q83&type=default" width="356" alt="Anthony's Dev Card"/></a>
