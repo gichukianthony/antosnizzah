@@ -8,12 +8,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FF5733&width=435&lines=I'm+antohsnizzah!" alt="Typing SVG">
   </a>
-</h1>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=1E90FF&width=435&lines=This+is+my+GitHub+account!" alt="Typing SVG">
-  </a>
-</h1>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=32CD32&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG">
@@ -53,7 +48,7 @@
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/antosnizzah/antosnizzah/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/antosnizza/antosnizzah/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/antosnizzah/antosnizzah/blob/output/github-contribution-grid-snake.svg" />
     <img src="https://github.com/antosnizah/antosnizzah/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </div>
@@ -84,3 +79,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+## Dev Card 
+<a href="https://app.daily.dev/anthony73">
+  <img src="https://api.daily.dev/devcards/v2/Re6fokPHej7TlBRiWcOiL.png?r=q83&type=default" width="356" alt="Anthony's Dev Card"/>
+</a>
