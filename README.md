@@ -1,8 +1,24 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&width=435&lines=Hi+There!+👋;+I'm+antohsnizzah!;+This+is+my+GitHub+account!;+Welcome+to+my+profile!;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&width=435&lines=Hi+There!+👋" alt="Typing SVG">
   </a>
 </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&width=435&lines=I'm+antohsnizzah!" alt="Typing SVG">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E90FF&width=435&lines=This+is+my+GitHub+account!" alt="Typing SVG">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=32CD32&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
+</h1>
+
 
 <br />
 <p align="center">
