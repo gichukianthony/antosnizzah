@@ -37,11 +37,11 @@
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 <p align="center">
-  <a href="[https://github.com/antohsnizzah/project1](https://github.com/antosnizzah/antosnizzah.git)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antohsnizzah&repo=project1&theme=vision-friendly-dark" alt="Project 1" />
+  <a href="[https://github.com/antosnizzah/project1](https://github.com/antosnizzah/antosnizzah.git)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antosnizzah&repo=project1&theme=vision-friendly-dark" alt="Project 1" />
   </a>
-  <a href="https://github.com/antohsnizzah/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antohsnizzah&repo=project2&theme=vision-friendly-dark" alt="Project 2" />
+  <a href="https://github.com/antosnizzah/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=antosnizzah&repo=project2&theme=vision-friendly-dark" alt="Project 2" />
   </a>
 </p>
 
@@ -61,18 +61,18 @@
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=antohsnizzah&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=antosnizzah&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antohsnizzah&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antosnizzah&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </p>
 
 <h2 align="center">🚀 Current Activities 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antohsnizzah&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antosnizzah&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
 </p>
 
 <h2 align="center">💬 Connect with Me 💬</h2>
