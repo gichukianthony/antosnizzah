@@ -1,9 +1,9 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=antohsnizzah">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+antohsnizzah!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&width=435&lines=Hi+There!+👋;+I'm+antohsnizzah!;+This+is+my+GitHub+account!;+Welcome+to+my+profile!;" alt="Typing SVG">
   </a>
 </h1>
+
 <br />
 <p align="center">
   Hi, I'm Antony, a software Developer/Coder 💻, student 👨‍💻 & gamer 🦸‍♂️ from Kenya.
