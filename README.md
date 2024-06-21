@@ -37,7 +37,7 @@
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 <p align="center">
-  <a href="https://github.com/antohsnizzah/project1">
+  <a href="[https://github.com/antohsnizzah/project1](https://github.com/antosnizzah/antosnizzah.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=antohsnizzah&repo=project1&theme=vision-friendly-dark" alt="Project 1" />
   </a>
   <a href="https://github.com/antohsnizzah/project2">
