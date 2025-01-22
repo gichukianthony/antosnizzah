@@ -56,18 +56,18 @@
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=antosnizzah&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gichukianthony&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antosnizzah&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gichukianthony&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </p>
 
 <h2 align="center">🚀 Current Activities 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antosnizzah&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gichukianthony&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
 </p>
 
 <h2 align="center">💬 Connect with Me 💬</h2>
