@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=antohsnizzah">
+<img align="right" src="https://komarev.com/ghpvc/?username=gichukianthony">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=00FF00&width=435&lines=Hi+There!+👋" alt="Typing SVG">
@@ -6,7 +6,7 @@
 </h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FF5733&width=435&lines=I'm+antohsnizzah!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=FF5733&width=435&lines=I'm+gichuki anthony!" alt="Typing SVG">
   </a>
 
 <h1 align="center">
@@ -22,7 +22,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently learning drizzle-orm and hono.
+  🧑‍💼 I’m currently learning machine learning and AI.
 </p>
 
 <h2 align="center">🚀 About Me 🚀</h2>
