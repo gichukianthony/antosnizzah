@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=gichukianthony/antosnizzah">
+<img align="right" src="https://komarev.com/ghpvc/?username=gichukianthony">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=2000&color=00FF00&width=435&lines=Hi+There!+👋" alt="Typing SVG">
